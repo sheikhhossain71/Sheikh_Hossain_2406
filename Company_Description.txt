@@ -1,0 +1,7 @@
+1. Company Name: Dunder Miflin 
+Locations: 5 Branches, New York, Queens (Corporate), Scranton (PENSYLVANIA), San Diego (CA), Huston, (Texas), Washington DC (Maryland)
+Employees: Each Branch has 3-5 Accountants, 6-8 Sales, 1 Human Resource, 1 Manager, 1 Receptionist, 15-20 Warehouse workers. Should have about 175-200 Employees.
+Generate Revenue: They sell paper. 
+Drake Equation: 
+
+C

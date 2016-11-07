@@ -1,0 +1,9 @@
+
+
+Scope Definition 
+
+14 and 15. Dunder Miflin will Transaction Processing Systems
+Transaction processing systems meet the data collection, storage, processing and outputting functionalities for the core operations of a business.
+
+Customer Relationship Management Systems
+Business owners use customer relationship systems to synchronize sales and marketing efforts. CRM systems accumulate and track customer activities, including purchasing trends, product defects and customer inquiries.

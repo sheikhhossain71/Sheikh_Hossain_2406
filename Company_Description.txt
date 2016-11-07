@@ -1,0 +1,17 @@
+1. Company Name: Dunder Miflin 
+Locations: 5 Branches, New York, Queens (Corporate), Scranton (PENSYLVANIA), San Diego (CA), Huston, (Texas), Washington DC (Maryland)
+Employees: Each Branch has 3-5 Accountants, 6-8 Sales, 1 Human Resource, 1 Manager, 1 Receptionist, 15-20 Warehouse workers. Should have about 175-200 Employees.
+Generate Revenue: They sell paper. 
+Drake Equation: 
+
+Per boxes cost $40 (Every Color Encluded)
+Branches have 7 Sales employees in average: Each salesman sales about 30 boxes per day. 30 X 40= $1,200 X 7= $8,400 per day.
+Out of 365 days a year there are 260 working days.
+
+$8,400 X 260= $2,184,000 a year. Per Branch Estimated gross Anual.
+
+We sell paper, all different types of colors. Clients have to reach out to our sales/coustomer service. Or they can scheudle a buisness meeting for our products. Then depending on how much paper they order, our warehouse guys ship the papers but there is a shipping charge.
+
+The few of the big clients are Appleton Paper Co, Diashowa, Potlatch Corp. 
+
+Our suppliers are from different countries, Sing-San-Lom from China, David Villa Papel from Spain.
